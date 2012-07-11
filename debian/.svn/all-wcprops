@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/DroidAVNPlatform/!svn/ver/856/trunk/external/ElectricFence/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/DroidAVNPlatform/!svn/ver/856/trunk/external/ElectricFence/debian/control
+END
+diversions.ex
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/DroidAVNPlatform/!svn/ver/856/trunk/external/ElectricFence/debian/diversions.ex
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/DroidAVNPlatform/!svn/ver/856/trunk/external/ElectricFence/debian/dirs
+END
+rules.multi
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/DroidAVNPlatform/!svn/ver/856/trunk/external/ElectricFence/debian/rules.multi
+END
+info.ex
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/DroidAVNPlatform/!svn/ver/856/trunk/external/ElectricFence/debian/info.ex
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/DroidAVNPlatform/!svn/ver/856/trunk/external/ElectricFence/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/DroidAVNPlatform/!svn/ver/856/trunk/external/ElectricFence/debian/copyright
+END
+control.multi
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/DroidAVNPlatform/!svn/ver/856/trunk/external/ElectricFence/debian/control.multi
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/DroidAVNPlatform/!svn/ver/856/trunk/external/ElectricFence/debian/rules
+END
+README.debian
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/DroidAVNPlatform/!svn/ver/856/trunk/external/ElectricFence/debian/README.debian
+END
