@@ -10,6 +10,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <signal.h>
+#include <stdio.h>
 
 #if defined(ANDROID)
 #include <private/logd.h>
