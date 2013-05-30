@@ -16,6 +16,7 @@ LOCAL_CFLAGS := \
 	-DDYNAMIC_LIB \
 	-fvisibility=hidden \
 	-DANDROID \
+	-fno-builtin-malloc \
 	$(libc_common_cflags)
 
 LOCAL_C_INCLUDES := $(libc_common_c_includes) bionic/libc
